@@ -29,7 +29,7 @@ class AlphaReleaseChannel extends ReleaseChannel
 
     public function getDownloadUrlWithoutScheme($version)
     {
-        return '://builds.matomo.org/4.0.0-alpha.zip';
+        return '://builds.matomo.org/matomo-4.0.0-a1.zip';
     }
 
     public function getOrder()
