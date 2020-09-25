@@ -2,6 +2,8 @@
 
 ## Description
 
+This plugin is currently not useful/working and only used to test the upgrade to a new major Matomo release before releasing a first beta. 
+
 Adds a new release channel which lets you upgrade to Matomo 4 before the first public beta.
 
 Used by the Matomo team to test the upgrade process to the next major version.
